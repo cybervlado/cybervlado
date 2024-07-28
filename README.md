@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vlad Joado
-
+- 👋 Hi, I’m Vlado
 
 <!---
 cybervlado/cybervlado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
